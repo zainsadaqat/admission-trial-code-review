@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Admission Trial Code Review
 
-> One paragraph statement about the project.
+> This is the project that I did with my coding partner by following pair programming rules.
 
 ![screenshot](./app_screenshot.png)
 
@@ -10,14 +10,8 @@ Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+- HTML5
+- CSS3
 
 ## Getting Started
 
@@ -35,25 +29,23 @@ To get a local copy up and running follow these simple example steps.
 
 ### Usage
 
-### Run tests
-
 ### Deployment
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Zain Sadaqat**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/zainsadaqat)
+- Twitter: [@twitterhandle](https://twitter.com/zain_sadaqat)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/zainsadaqat)
 
-👤 **Author2**
+👤 **Balqees Hashmi**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/balqees)
+- Twitter: [@twitterhandle](https://twitter.com/balqees)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/balqees)
 
 ## 🤝 Contributing
 
@@ -67,9 +59,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- These code files ( HTML & CSS ) belong to my coding partner Balqees Hashmi. She provided these files
+and own all rights. Thanks Balqees!
 
 ## 📝 License
 
